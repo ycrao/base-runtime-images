@@ -6,6 +6,12 @@
 
 目前最新版本：`v1.3` ，镜像文件大小少于 `50MB` 。
 
+如需查看该镜像中，已安装的 `PHP` 扩展，可在终端执行下列命令：
+
+```bash
+$ docker run --rm -it raoyc/php7.4-fpm-ngx:latest php -m
+```
+
 官方地址：[/r/raoyc/php7.4-fpm-ngx](https://hub.docker.com/r/raoyc/php7.4-fpm-ngx) 。
 
 ```bash
