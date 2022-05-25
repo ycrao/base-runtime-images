@@ -4,7 +4,7 @@
 
 ### 版本说明
 
-目前最新版本：`v1.3` ，镜像文件大小少于 `50MB` 。
+目前最新版本：`v1.3` ，镜像文件少于 `50MB` 。
 
 官方地址：[/r/raoyc/php7.4-fpm-cdy](https://hub.docker.com/r/raoyc/php7.4-fpm-cdy) 。
 
